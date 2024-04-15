@@ -16,7 +16,10 @@
 1. Table
    <br>
    <img src = "https://github.com/BhavyaBhalla-27/Assignment-7_Multi-Threading/assets/114859167/eb3a6cdd-19a2-403d-80e1-9e37f12263c6" />
-2. Graph
+2. Graph of Execution Time vs Number of Threads
+   <br>
+   <img src = "https://github.com/BhavyaBhalla-27/Assignment-7_Multi-Threading/assets/114859167/c946fda3-36e5-4bd4-a11e-188c2e0123af" />
+4. Graph of CPU Utilization
    <br>
    <img src = "https://github.com/BhavyaBhalla-27/Assignment-7_Multi-Threading/assets/114859167/0ca663de-a07c-4327-966a-c703a1e55e9a" />
 
