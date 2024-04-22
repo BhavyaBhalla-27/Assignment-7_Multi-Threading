@@ -1,4 +1,6 @@
 # Title : MultiThreading in Python
+The number of matrices are = 200 <br>
+The size of matrix taken is 3000x3000
 
 ## **1. Methodology**
 <ul>
